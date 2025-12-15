@@ -1,7 +1,7 @@
 # Airpedia - Airplane Ticket Booking App
 
 ## Overview
-Airpedia is a Flutter-based mobile application designed for booking airplane tickets. This project is developed as part of the CSE-3112: Software Engineering Lab course by [Your Name] and Asef Sami.
+Airpedia is a Flutter-based mobile application designed for booking airplane tickets. This project is developed as part of the CSE-3112: Software Engineering Lab course.
 
 ## Features
 - User-friendly interface for searching and booking flights

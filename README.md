@@ -55,5 +55,4 @@ This is a lab project for CSE-3112. Contributions are welcome for improvements o
 ## License
 This project is for educational purposes as part of CSE-3112: Software Engineering Lab.
 
-## Contact
-For questions related to the course, contact your instructor.
+
